@@ -1,0 +1,8 @@
+[
+  {"id":"programming-dock","rawText":"Quero um monitor para programar com notebook usando um único cabo.","goal":"programming_productivity","requirements":["resolution_height>=1440","size_in>=27"],"preferences":["usb_c_pd_w>=65","rj45=true","height_adjust=true"],"dealBreakers":[]},
+  {"id":"esports-qhd","rawText":"Quero jogar FPS competitivo em QHD.","goal":"competitive_gaming","requirements":["resolution_height>=1440","refresh_hz>=144"],"preferences":["response_ms<=1","height_adjust=true"],"dealBreakers":[]},
+  {"id":"video-office","rawText":"Preciso de um monitor de escritório com webcam integrada e docking USB-C.","goal":"video_conferencing","requirements":["webcam=true","usb_c_pd_w>=65"],"preferences":["rj45=true","height_adjust=true"],"dealBreakers":[]},
+  {"id":"multitask-wide","rawText":"Quero bastante espaço horizontal para trabalhar com várias janelas.","goal":"multitasking","requirements":["resolution_width>=3000","size_in>=32"],"preferences":["aspect_ratio=21:9"],"dealBreakers":[]},
+  {"id":"vertical-code","rawText":"Quero um monitor QHD que possa usar na vertical para código.","goal":"vertical_programming","requirements":["resolution_height>=1440","pivot=true"],"preferences":["height_adjust=true","size_in>=27"],"dealBreakers":[]},
+  {"id":"gaming-image","rawText":"Quero QHD para jogar, priorizando fluidez e qualidade de imagem.","goal":"gaming_image_quality","requirements":["resolution_height>=1440","refresh_hz>=144"],"preferences":["panel=OLED","response_ms<=1"],"dealBreakers":[]}
+]
